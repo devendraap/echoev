@@ -1,6 +1,6 @@
 ## Welcome to Echo EV
 
-Echo EV is an Open platform to search and on board Electric vehicle chargers at ZERO charge. We improve customer experience for you.
+Echo EV is an Open platform for searching and on board Electric vehicle chargers at ZERO charge. We improve customer experience for you.
 
 ### Mobile application
 
